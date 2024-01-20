@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 
     printf("You are %d miles away .\n", distance);
     printf("You have %f levels of power .\n", power);
-    printf("You have %f awesome super power .\n", super_power);
+    printf("You have %f  awesome super power .\n", super_power);
     printf("I have an initial %c .\n", initial);
     printf("I have a first name %s.\n", first_name);
     printf("I have a last name %s.\n", last_name);
@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
    int bugs = 100;
    double bug_rate = 1.2;
 
-   printf("You have %d bugs at the imaginary rate of %f.", bugs, bug_rate);
+   printf("You have %d  bugs at the imaginary rate of %f.", bugs, bug_rate);
 
 
    double univers_of_defects = 1L * 1024L * 1024L * 1024L; 
@@ -37,7 +37,7 @@ int main(int argc, char *argv[])
    // this makes no sense, just a demo of something weird
    char nul_byte = '\0';
    int care_percentage = bugs * nul_byte;
-   printf("Which means you should care %d%%.\n", care_percentage);
+   printf("Which means you should care %s% \n", care_percentage);
 
    return 0;
 }
