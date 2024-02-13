@@ -8,11 +8,11 @@ typedef int Bool;
 main () {
 Bool digit_seen[10] = {0};
 int digit ;
-long int n = 25574; 
+long int n ; 
 
-/*printf("Enter a number : ");
+printf("Enter a number : ");
 scanf("%ld", &n);
-*/
+
 while (n > 0) {
 	digit = n % 10 ;
 	if (digit_seen[digit])

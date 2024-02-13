@@ -2,8 +2,8 @@
 #include <ctype.h>
 
 //forwrad declarations
-int can_print_it(char ch);
-void print_letters(char arg[]);
+int can_print_it(char ch);//this a forward declaration
+void print_letters(char arg[]);//this a forwrd declarationn 
 
 void print_arguments(int argc, char *argv[])
 {
@@ -29,15 +29,13 @@ void print_letters(char arg[])
 	}
 
 
-int can_print_it(char ch){
-int x = isalpha(ch) || isblank(ch);
-printf("x ---->  d%",x);
+int can_print_it(char ch) {
 
-return isalpha(ch) || isblank(ch),printf("x ---->  d%",x);
+	return isalpha(ch) || isblank(ch);
 }
 
 int main( int argc, char *argv[])
 {
-	print_arguments(argc, argv);
-return 0;
+	print_arguments(argc+1, argv);
+	return 0;
 } 
