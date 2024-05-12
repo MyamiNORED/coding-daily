@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+#include <time.h>
 /*********************Random Walk****************************************/
 /*
 
@@ -78,10 +79,19 @@ for (int i = 0 ; i < 10 ; i++)
 	}
 	}
 
+
+//generate a random  number .
+srand(time(NULL));
+int direction_one = rand() % 4;
+int direction_two = rand()% 4;
+/*if (i>10) or (j > 10) or (D[i][j] != '.')
+	int direction  */
+
+
+printf("direction one : %d ",direction_one);
+
+printf("direction two  : %d ",direction_two);
 }
-
-
-
 
 
 
