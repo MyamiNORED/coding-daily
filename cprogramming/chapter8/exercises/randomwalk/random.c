@@ -4,19 +4,38 @@
 
 
 main() {
+
+int d;
+
+printf("enter a number ");
+scanf("%d",&d);
+
+switch(d){
+
+	case 0 :
+	//going north
+	if( (i+1<10) && (R[i+1] <= 0) )
+	{ 	i = i+1;
+		R[i]='A';
+		d = 
 	
+`	break;
 
-//declare varaibles
+	case 1:
+	//going south
+	break;
 
-int i = 0, j = 0 ;
+	case 2:
+	//going east 
+	break;
 
-int R[10][10];
+	case 3:
+	//going west 
+	break;
 
-while (i<10 && j < 10 && R[i][j] != 0) {
-	
-	srand(time(NULL));
-	int direction = rand() % 2;
-	i = i + direction ;
-	R[i][j] = 1;
-	}
+
+
+}
+
+
 }
