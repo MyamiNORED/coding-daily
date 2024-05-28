@@ -8,7 +8,7 @@ main()
 char arr[4] = {"saeed","walid","ali","magnus"};
 
 void
-sort(char arr[],size)
+sort(size)
 {
 	int i ,
 	int j = 0;
