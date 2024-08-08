@@ -1,0 +1,149 @@
+
+Week 1
+Jun. 24 - 28",,Course Overview,,,"C++ Fundamentals
+
+Reading: Ch. 1, 2.1 - 2.4",,,"Pass-by-Reference, ASCII,
+and Strings in C++
+
+Reading: 2.5, Ch. 3",,,"Testing, Vectors, and Grids
+
+Reading: 5.1",,,C++ Fundamentals,,"Section Sign-up
+Deadline! (via Paperless)
+
+Tuesday, June 26, 5:00 PM",,"Quiz #1 Series Due
+
+Friday, June 28
+11:59 PM",,"Assignment #0 and 
+Syllabus Quiz Due
+Friday, June 28
+11:59 PM"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week 2
+
+Jul. 1 - 5",,"Stacks and Queues
+
+Reading: 5.2-5.3",,,"Sets and Maps
+
+Reading: 5.4 - 5.6",,,"Big-O and Algorithm Analysis
+
+Reading: 10.1 - 10.2",,,"Independence Day
+
+(No Class)",,,"The Awesomeness of ADTs
+
+Thursday folks invade
+Wednesday/Friday sections!",,"Add/Drop Deadline
+
+Friday, July 5, 5:00 PM",,"Quiz #2 Series Due
+Wednesday, Jun. 3
+1:00 PM",,"Assignment #1 Due
+Wednesday, June 3
+11:59 PM"
+,,,,,,,,,,,,,,,,,,,,
+"Week 3
+
+Jul. 8 - 12",,"Introduction to Recursion
+
+Reading: Ch. 7",,,"More Recursion
+
+Reading: 8.1 - 8.3",,,"Fractals and Recursive Problem Solving
+
+Reading: 8.4",,,"More Recursive Backtracking (and Structs)
+
+Reading: 9.1",,,Recursion and Big-Oh,,,,"Quiz #3 Series Due
+Wednesday, Jul. 10
+1:00 PM",,"Assignment #2 Due
+Wednesday, June 10
+11:59 PM"
+,,,,,,,,,,,,,,,,,,,,
+"Week 4
+
+Jul. 15 - 19",,"Recursive Backtracking and Enumeration
+
+Reading: 9.1",,,"Sorting Algorithms
+
+Reading: 10.1, 10.3, 10.5",,,Review and Problem Solving Day,,,No Lecture Thursday (Study Day),,,Backtracking,,,,"Quiz #4 Series Due
+Wednesday, Jul. 17
+1:00 PM",,"Assignment #3 Due
+Wednesday, June 17
+11:59 PM"
+,,,,,,,,,,,"Midterm Exam
+Friday, July 19, 1:30 - 3:30 PM",,,,,,,,,
+"Week 5
+
+Jul. 22 - 26",,"Object-Oriented Programming
+
+Reading: 6.1 - 6.3",,,"Pointers and Arrays
+
+Reading: Ch. 11",,,"Dynamic Memory Management
+
+Reading: 12.1, 12.3, 14.2",,,"Priority Queues and Binary Heaps
+
+Reading: 14.3, 16.5",,,Classes and Pointer Mayhem,,"Course W/D and
+Change of Grading
+Basis Deadline
+Friday, July 26, 5:00 PM",,"Quiz #5 Series Due
+Wednesday, Jul. 24
+1:00 PM",,"Assignment #4 Due
+Thursday, July 25
+11:59 PM"
+,,,,,,,,,,,,,,,,,,,,
+"Week 6
+
+Jul. 29 - Aug. 2",,"Introduction to Linked Lists
+
+Reading: 12.2, 13.5",,,"More Linked Lists
+
+Reading: 14.2 - 14.4",,,"Trees
+
+Reading: 16.1",,,"Binary Search Trees
+
+Reading: 16.2 - 16.4",,,"Classes, Dynamic
+Memory Management,
+and Linked Lists",,,,"Quiz #6 Series Due
+Wednesday, Jul. 31
+1:00 PM",,"Assignment #5 Due
+Wednesday, July 31
+11:59 PM"
+,,,,,,,,,,,,,,,,,,,,
+"Week 7
+
+Aug. 5 - 9",,Huffman Coding,,,"Hashing
+
+Reading: 15.3",,,Introduction to Graph Algorithms,,,"Dijkstra, A*, and Topological Sort",,,Linked Lists and Trees,,,,"Assignment #6 Due
+Tuesday, Aug. 6
+11:59 PM",,"Quiz #7 Series Due
+Wednesday, Aug. 7
+1:00 PM"
+,,,,,,,,,,,,,,,,,,,,
+"Week 8
+
+Aug. 12 - 16",,Graph Coding,,,"Problem Solving Day, Flex Day,
+
+or Course Wrap (TBD)",,,"Problem Solving Day, Flex Day,
+
+or Course Wrap (TBD)",,,No Lecture Thursday (Study Day),,,(No Section),,"Quiz #8 Series Due
+Monday, Aug. 12
+1:00 PM",,"Assignment #7 Due
+Tuesday, Aug. 13
+11:59 PM
+★ No Late Days ★",,"Final Day of Classes 
+Thursday, Aug. 15"
+,,,,,,,,,,,"Final Exam
+Friday, Aug. 16, 3:30 - 6:30 PM",,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,," * Note: Stanford's final exam period runs from Friday, Aug. 16, through Saturday, Aug. 17. Final exam dates and times are set by the registrar and will not change.",,,,,,,,,,,,,,,,,,
+,," * Note: Grades are due to the registrar by 11:59 PM on Tuesday, Aug. 27. See Stanford's academic calendar for more.",,,,,,,,,,,,,,,,,,
+
