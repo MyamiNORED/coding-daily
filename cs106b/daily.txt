@@ -1,0 +1,13 @@
+
+
+Week 1
+[*] Course Overview 
+
+[*] C++ Fundamentals
+
+[]Reading: Ch. 1, 2.1 - 2.4
+[*]Pass-by-Reference
+[]ASCII
+[]Strings in C++
+
+
