@@ -1,13 +1,77 @@
+	
+
+[]course overview
+[]intro to C++ 
+
+[]video
+
+[]read Ch. 1-2
+[]C++ handout
+
+CodeStepByStep:
+[]HelloWorld
+[]StanfordVsC
+[]C++ docs: cout, cin
+ 
+[]Stanford C++ lib: simpio.h
+
+[]00-introduction.pdf 00-introduction.pdf
+[]01-intro-to-cpp.pdf 01-intro-to-cpp.pdf
+[]all-code-lecture01.zip all-code-lecture01.zip
+[]firstprogram.cpp 
+[]1-10
+
+[]C++ functions
+[]strings (  preview)
+[]video
+
+[]read Ch. 2-3
+[]Proc.Decomp handout
+
+[]CodeStepByStep:
+[] parameterMysteryBCA
+[] xkcdDatingRange
+[]quadratic
+[]returnMystery1
+[]BMI
+[]stringMysteryAB
+[] nameDiamond
 
 
-Week 1
-[*] Course Overview 
+[]C++ docs: cmath, string, cctype
+[]Stanford C++ lib: 
+[]gmath.h
+[]strlib.h
 
-[*] C++ Fundamentals
+[]02-function-string.pdf 02-function-string.pdf
+[]all-code-lecture02.zip all-code-lecture02.zip
+[]functions.cpp
 
-[]Reading: Ch. 1, 2.1 - 2.4
-[*]Pass-by-Reference
-[]ASCII
-[]Strings in C++
+[]I/O streams; Vector and Grid (  preview)
 
+[]video
 
+[]Homework 1 
+
+[]read Ch. 3-4; 5.1
+
+[]CodeStepByStep: 
+[]streamErrors
+[]inputStats
+[]hoursWorked
+[]gridMystery
+[]knightCanMove
+
+ 
+[]C++ docs: ifstream, iomanip, sstream
+[]Stanford C++ lib:
+[]filelib.h, 
+[]simpio.h,
+[] Grid
+
+[]03-stream-vector-grid.pdf 
+[]all-code-lecture03.zip 
+[]knight.cpp knight.cpp
+[]readfile.cpp
+[] readfile.cpp
+[]vectorexample.cpp 
