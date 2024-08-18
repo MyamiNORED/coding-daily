@@ -1,0 +1,222 @@
+Programming abstractions in c++
+
+
+[ ] 1 Overview of C++ 1
+
+	[*] 1.1 Your first C++ program 2
+	[*] 1.2 The history of C++ 3
+	[*] 1.3 The compilation process 6
+	[*] 1.4 The structure of a C++ program 7
+	[*] 1.5 Variables 14
+	[*] 1.6 Data types 19
+	[*] 1.7 Expressions 26
+	[*] 1.8 Statements 36
+	[*] Summary 47
+	[ ] Review questions 48
+		[ ] Exercises 50
+		
+		
+			[*][01] Convert Celsius to Fahrenheit	
+			[*][02] Convert Meters to Feet and Inches
+			[*][03] Compute Sum of Numbers from 1 to 100
+			[][04] Calculate Sum of First N Odd Integers
+			[*][05] Find the Largest Integer from User Input
+			[*][06] Find the Largest and Second-Largest Integer
+			[][07] Calculate Average of Exam Scores
+			[][08] Reverse Digits of an Integer
+			[][09] Prime Factorization of a Number
+			[][10] Generate Hailstone Sequence
+			[][11] Approximate Pi Using Leibniz Series
+			[][12] Approximate Area of a Quarter Circle
+
+		
+		
+		
+		
+		
+		
+		
+		
+[ ] 2 Functions and Libraries 55
+	[*] 2.1 The idea of a function 56
+	[*] 2.2 Libraries 59
+	[*] 2.3 Defining functions in C++ 61
+	[*] 2.4 The mechanics of function calls 65
+	[ ] 2.5 Reference parameters 73
+	[ ] 2.6 Interfaces and implementations 78
+	[ ] 2.7 Principles of interface design 85
+	[ ] 2.8 Designing a random number library 90
+	[ ] 2.9 Introduction to the Stanford libraries 107
+	[ ] Summary 112
+	[ ] Review questions 114
+	[ ] Exercises 115
+[ ] 3 Strings 125
+	[ ] 3.1 Using strings as abstract values 126
+	[ ] 3.2 String operations 129
+	[ ] 3.3 The <cctype> library 137
+	[ ] 3.4 Modifying the contents of a string 138
+	[ ] 3.5 The legacy of C-style strings 139
+	[ ] 3.6 Writing string applications 140
+	[ ] 3.7 The strlib.h library 146
+	[ ] Summary 147
+	[ ] Review questions 148
+		[ ] Exercises 149
+[ ] 4 Streams 159
+	[ ] 4.1 Formatted output 160
+	[ ] 4.2 Formatted input 165
+	[ ] 4.3 Data files 167
+	[ ] 4.4 Class hierarchies 181
+	[ ] 4.5 The simpio.h and filelib.h libraries 186
+	[ ] Summary 188
+	[ ] Review questions 189
+		[ ] Exercises 190
+[ ] 5 Collections 195
+	[ ] 5.1 The Vector class 197
+	[ ] 5.2 The Stack class 211
+	[ ] 5.3 The Queue class 217
+	[ ] 5.4 The Map class 226
+	[ ] 5.5 The Set class 232
+	[ ] 5.6 Iterating over a collection 236
+	[ ] Summary 243
+	[ ] Review questions 245
+		[ ] Exercises 246
+[ ] 6 Designing Classes 261
+[ ] 6.1 Representing points 262
+[ ] 6.2 Operator overloading 268
+[ ] 6.3 Rational numbers 281
+[ ] 6.4 Designing a token scanner class 292
+[ ] 6.5 Encapsulating programs as classes 301
+[ ] Summary 303
+[ ] Review questions 305
+[ ] Exercises 306
+[ ] 7 Introduction to Recursion 315
+[ ] 7.1 A simple example of recursion 316
+[ ] 7.2 The factorial function 318
+[ ] 7.3 The Fibonacci function 325
+[ ] 7.4 Checking palindromes 332
+[ ] 7.5 The binary search algorithm 335
+[ ] 7.6 Mutual recursion 336
+[ ] 7.7 Thinking recursively 338
+[ ] Summary 340
+[ ] Review questions 342
+[ ] Exercises 344
+[ ] 8 Recursive Strategies 349
+[ ] 8.1 The Towers of Hanoi 350
+[ ] 8.2 The subset-sum problem 361
+[ ] 8.3 Generating permutations 364
+[ ] 8.4 Graphical recursion 368
+[ ] Summary 375
+[ ] Review questions 375
+[ ] Exercises 376
+[ ] 9 Backtracking Algorithms 389
+[ ] 9.1 Recursive backtracking in a maze 390
+[ ] 9.2 Backtracking and games 400
+[ ] 9.3 The minimax algorithm 409
+[ ] Summary 415
+[ ] Review questions 416
+[ ] Exercises 417
+[ ] 10 Algorithmic Analysis 429
+[ ] 10.1 The sorting problem 430
+[ ] 10.2 Computational complexity 435
+[ ] 10.3 Recursion to the rescue 443
+[ ] 10.4 Standard complexity classes 449
+[ ] 10.5 The Quicksort algorithm 452
+[ ] 10.6 Mathematical induction 458
+[ ] Summary 462
+[ ] Review questions 463
+[ ] Exercises 466
+[ ] 11 Pointers and Arrays 473
+[ ] 11.1 The structure of memory 474
+[ ] 11.2 Pointers 484
+[ ] 11.3 Arrays 494
+[ ] 11.4 Pointer arithmetic 500
+[ ] Summary 506
+[ ] Review questions 508
+[ ] Exercises 510
+[ ] 12 Dynamic Memory Management 515
+[ ] 12.1 Dynamic allocation and the heap 516
+[ ] 12.2 Linked lists 519
+[ ] 12.3 Freeing memory 523
+[ ] 12.4 Defining a CharStack class 527
+[ ] 12.5 Heap-stack diagrams 536
+[ ] 12.6 Unit testing 543
+[ ] 12.7 Copying objects 546
+[ ] 12.8 The uses of const 550
+[ ] 12.9 Efficiency of the CharStack class 558
+[ ] Summary 560
+[ ] Review questions 562
+[ ] Exercises 564
+[ ] 13 Efficiency and Representation 569
+[ ] 13.1 Software patterns for editing text 570
+[ ] 13.2 Designing a simple text editor 572
+[ ] 13.3 An array-based implementation 579
+[ ] 13.4 A stack-based implementation 586
+[ ] 13.5 A list-based implementation 591
+[ ] Summary 607
+[ ] Review questions 608
+[ ] Exercises 610
+[ ] 14 Linear Structures 615
+[ ] 14.1 Templates 616
+[ ] 14.2 Implementing stacks 619
+[ ] 14.3 Implementing queues 634
+[ ] 14.4 Implementing vectors 649
+[ ] 14.5 Integrating prototypes and code 656
+[ ] Summary 657
+[ ] Review questions 658
+[ ] Exercises 659
+[ ] 15 Maps 663
+[ ] 15.1 Implementing maps using vectors 664
+[ ] 15.2 Lookup tables 668
+[ ] 15.3 Hashing 671
+[ ] 15.4 Implementing the HashMap class 682
+[ ] Summary 683
+[ ] Review questions 684
+[ ] Exercises 685
+[ ] 16 Trees 689
+[ ] 16.1 Family trees 691
+[ ] 16.2 Binary search trees 693
+[ ] 16.3 Balanced trees 706
+[ ] 16.4 Implementing maps using BSTs 717
+[ ] 16.5 Partially ordered trees 719
+[ ] Summary 722
+[ ] Review questions 724
+[ ] Exercises 727
+[ ] 17 Sets 737
+[ ] 17.1 Sets as a mathematical abstraction 738
+[ ] 17.2 Expanding the set interface 742
+[ ] 17.3 Implementation strategies for sets 747
+[ ] 17.4 Optimizing sets of small integers 753
+[ ] Summary 761
+[ ] Review questions 762
+[ ] Exercises 764
+[ ] 18 Graphs 767
+[ ] 18.1 The structure of a graph 768
+[ ] 18.2 Representation strategies 772
+[ ] 18.3 A low-level graph abstraction 776
+[ ] 18.4 Graph traversals 783
+[ ] 18.5 Defining a Graph class 789
+[ ] 18.6 Finding shortest paths 804
+[ ] 18.7 Algorithms for searching the web 808
+[ ] Summary 812
+[ ] Review questions 813
+[ ] Exercises 815
+[ ] 19 Inheritance 823
+[ ] 19.1 Simple inheritance 824
+[ ] 19.2 A hierarchy of graphical shapes 832
+[ ] 19.3 A class hierarchy for expressions 842
+[ ] 19.4 Parsing an expression 862
+[ ] 19.5 Multiple inheritance 871
+[ ] Summary 874
+[ ] Review questions 876
+[ ] Exercises 878
+[ ] 20 Strategies for iteration 887
+[ ] 20.1 Using iterators 888
+[ ] 20.2 Using functions as data values 892
+[ ] 20.3 Encapsulating data with functions 901
+[ ] 20.4 The STL algorithms library 906
+[ ] 20.5 Functional programming in C++ 909
+[ ] 20.6 Implementing iterators 913
+[ ] Summary 920
+[ ] Review questions 922
+[ ] Exercises 923
+

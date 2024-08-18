@@ -1,17 +1,17 @@
 	
 
-[]course overview
-[]intro to C++ 
+[*]course overview
+[*]intro to C++ 
 
-[]video
+[*]video
 
 []read Ch. 1-2
 []C++ handout
 
 CodeStepByStep:
-[]HelloWorld
-[]StanfordVsC
-[]C++ docs: cout, cin
+[*]HelloWorld
+[*]StanfordVsC
+[*]C++ docs: cout, cin
  
 []Stanford C++ lib: simpio.h
 
@@ -21,19 +21,19 @@ CodeStepByStep:
 []firstprogram.cpp 
 []1-10
 
-[]C++ functions
-[]strings (  preview)
-[]video
+[*]C++ functions
+[*]strings (  preview)
+[*]video
 
 []read Ch. 2-3
 []Proc.Decomp handout
 
 []CodeStepByStep:
-[] parameterMysteryBCA
-[] xkcdDatingRange
-[]quadratic
-[]returnMystery1
-[]BMI
+[*] parameterMysteryBCA
+[*] xkcdDatingRange
+[*]quadratic
+[*]returnMystery1
+[*]BMI
 []stringMysteryAB
 [] nameDiamond
 
