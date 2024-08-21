@@ -3,6 +3,32 @@
 #include "simpio.h"
 using namespace std;
 
+int length( int number) ;
+bool check_length_is_equal(int num1 , int num2);
+bool compare_numbers(int num1 , int num2);
+int extract_num(int num,int position,int len);
+
+
+
+
+int main()
+    {
+
+    int num1 = 0;
+
+    int num2 = 0;
+
+    cout << "enter two numbers to compare" << endl;
+    cin >> num1 >>  num2 ;
+
+    int result = compare_numbers(num1 , num2);
+
+    cout << "result is : " << result << "\n";
+
+
+    return 0 ;
+
+    }
 
 
 
@@ -13,6 +39,70 @@ using namespace std;
 
 
 
+
+
+
+
+bool compare_numbers(int num1 , int num2)
+	{
+
+    int len = length(num1);
+    int j = len;
+	for (int i = 1 ; i <=len ;i++)
+	
+	{
+        if(extract_num(num1 , i,len) != extract_num(num2 , j,len)) { return false;}
+	j--;
+	}
+	return true;
+	}
+
+
+
+
+
+int extract_num(int num,int position,int len)
+	{
+	    int n =num ; int remainder = 0;
+	    for (int i = 1 ; i <= len; i++){
+	        remainder = n % 10 ;
+	        n = n / 10 ;
+	        if ( i == position ) break;
+
+    }
+
+   	 return remainder;
+   	
+	 }
+
+
+
+
+
+
+
+int length( int number) 
+	{
+	int counter = 0 ;
+	int n = number;
+	while ( n % 10 > 0 ) {
+	counter++;
+	n = n / 10 ;
+		}
+	return counter;
+	
+    }
+
+
+
+bool check_length_is_equal(int num1 , int num2){
+
+        if (length(num1) == length(num2)) return true;
+        else  return false;
+
+
+
+    }
 
 
 

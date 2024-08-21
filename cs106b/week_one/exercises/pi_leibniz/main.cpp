@@ -3,6 +3,17 @@
  * --------------
  * Blank C++ project configured to use Stanford cslib and Qt
  */
+
+#include "console.h"
+#include "simpio.h"
+using namespace std;
+
+long calc(int x);
+
+int main()
+{
+    int approximation =0 ;
+    long result = 0.0;
 /*
 The German mathematician Leibniz (1646–1716) discovered the rather
 remarkable fact that the mathematical constant π can be computed using the
@@ -17,39 +28,26 @@ Write a program that calculates an approximation of π consisting of the first
 10,000 terms in Leibniz’s series
 
 */
-#include "console.h"
-#include "simpio.h"
-using namespace std;
+cout << "this program does approximations of pi " << endl;
+cout << "Enter number of approximation" << endl;
+cin >> approximation;
+result = 4 * ( 1 - calc(approximation));
+cout << "the apporoximation of pi to " << approximation << " is " << result << endl;
 
-
-
-
-
-int main()
-    {
-    double sum = 1.0 ;
-    int i = -1;
-    int x = 3.0 ;
-        while( i < 10000 ){
-        if (i % 2 ==0)
-            {
-                sum = sum + (1.0 / x);
-            }
-        else {
-            sum = sum - (1.0 / x);
-        }
-            x = x + 2.0 ;
-        i++;
-
-    }
-
-
-    double result = 4 * (1.0 - sum);
-
-    cout << result << endl;
     return 0;
+}
+
+long calc(int x)
+    {
+    x = 3 ;
+    long sum = 0.0;
+
+    for(int i = 0 ; i < x ; i++ )
+    {
+        if(i % 2 == 0 ) { sum += 1/x ;}
+        else{sum -= 1/x ; }
+        x += 2 ;
     }
-
-
-
+    return sum;
+    }
 

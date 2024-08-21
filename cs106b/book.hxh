@@ -22,10 +22,10 @@ Programming abstractions in c++
 			[][04] Calculate Sum of First N Odd Integers
 			[*][05] Find the Largest Integer from User Input
 			[*][06] Find the Largest and Second-Largest Integer
-			[][07] Calculate Average of Exam Scores
-			[][08] Reverse Digits of an Integer
+			[*][07] Calculate Average of Exam Scores
+			[*][08] Reverse Digits of an Integer
 			[][09] Prime Factorization of a Number
-			[][10] Generate Hailstone Sequence
+			[*][10] Generate Hailstone Sequence
 			[][11] Approximate Pi Using Leibniz Series
 			[][12] Approximate Area of a Quarter Circle
 
